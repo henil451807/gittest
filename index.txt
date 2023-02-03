@@ -1,1 +1,8 @@
-this is index file Tail.
+<<<<<<< HEAD
+this is index file 
+taill.
+=======
+this is index file 
+
+head.
+>>>>>>> feature3
